@@ -5,7 +5,7 @@
 
 
 
-- 👀 I’m interested in Artificial Intelligence, Web Development & App Development.
+- 👀 I’m interested in Web Development & App Development.
 - 🔭 I’m currently working on my Problem Solving Skills in Data Structures and Algorithms.
 - 🌱 I’m currently learning **Web Development with JS**.
 - 💞️ I’m looking to collaborate on Open-source and Web dev projects.
