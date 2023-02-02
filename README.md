@@ -42,15 +42,21 @@
 ***
 
 <!--Github Stats-->
- <div align="center"><h2>Github Stats 📈 </h2>
+<div align="center"><h2>Github Stats 📈 </h2>
+<p align="center">
+<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=vanshika-singh518&show_icons=true&theme=midnight-purple" />     
+<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika-singh518&show_icons=true&theme=midnight-purple" />
+<p/>
 
-Stats | Languages
-------| ----------
-![Vanshika 's Github Stats](https://github-readme-stats.vercel.app/api?username=vanshika-singh518&show_icons=true&theme=midnight-purple&text_color=BD632F) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-singh518&theme=midnight-purple&layout=compact&langs_count=7&text_color=BD632F)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Stats | Languages
+------| -------
+![Vanshika 's Github Stats](https://github-readme-stats.vercel.app/api?username=vanshika-singh518&show_icons=true&theme=midnight-purple&text_color=BD632F) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-singh518&theme=midnight-purple&layout=compact&langs_count=7&text_color=BD632F)](https://github.com/anuraghazra/github-readme-stats) -->
+  
 
 
 ---
-[![contributions](https://activity-graph.herokuapp.com/graph?username=vanshika-singh518&theme=xcode&area=true)](https://github.com/vanshika-singh518)
+<h2 align="center">Contribution Graph 📊</h2>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=vanshika-singh518&theme=github-dark" />  
 ---
 <center>
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
