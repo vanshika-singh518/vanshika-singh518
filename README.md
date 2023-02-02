@@ -44,8 +44,8 @@
 <!--Github Stats-->
 <div align="center"><h2>Github Stats 📈 </h2>
 <p align="center">
-<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=vanshika-singh518&show_icons=true&theme=midnight-purple" />     
-<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika-singh518&show_icons=true&theme=midnight-purple" />
+<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=vanshika-singh518&show_icons=true&theme=github_dark" />     
+<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika-singh518&show_icons=true&theme=github-dark-blue" />
 <p/>
 
 <!-- Stats | Languages
