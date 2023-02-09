@@ -44,13 +44,13 @@
 <!--Github Stats-->
 <div align="center"><h2>Github Stats 📈 </h2>
 <p align="center">
-<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=vanshika-singh518&show_icons=true&theme=github_dark" />     
-<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika-singh518&show_icons=true&theme=github-dark-blue" />
+<img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=vanshika-singh518&show_icons=true&theme=midnight-purple" />    
+<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika-singh518&show_icons=true&theme=midnight-purple" />
 <p/>
 
 <!-- Stats | Languages
 ------| -------
-![Vanshika 's Github Stats](https://github-readme-stats.vercel.app/api?username=vanshika-singh518&show_icons=true&theme=midnight-purple&text_color=BD632F) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-singh518&theme=midnight-purple&layout=compact&langs_count=7&text_color=BD632F)](https://github.com/anuraghazra/github-readme-stats) -->
+![Vanshika 's Github Stats](https://github-readme-stats.vercel.app/api?username=vanshika-singh518&show_icons=true&theme=midnight-purple&text_color=BD632F) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-singh518&theme=midnight-purple&layout=compact&langs_count=7&text_color=BD632F)](https://github.com/anuraghazra/github-readme-stats) github-dark-blue -->
   
 
 
